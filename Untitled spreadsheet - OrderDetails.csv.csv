@@ -1,0 +1,17 @@
+Order ID,User ID,Order Date,Meal Type,Dish Name,Order Status,Amount (USD),Time of Day,Rating,Session ID
+1001,U001,01/12/2024,Dinner,Spaghetti,Completed,$15.00,Night,5,S001
+1002,U002,01/12/2024,Lunch,Caesar Salad,Completed,$10.00,Day,4,S002
+1003,U003,02/12/2024,Dinner,Grilled Chicken,Canceled,$12.50,Night,4.29,S003
+1004,U001,02/12/2024,Breakfast,Pancakes,Completed,$8.00,Morning,4,S004
+1005,U004,03/12/2024,Lunch,Caesar Salad,Completed,$9.00,Day,4,S005
+1006,U002,03/12/2024,Dinner,Spaghetti,Completed,$14.00,Night,4,S006
+1007,U005,04/12/2024,Dinner,Grilled Chicken,Completed,$13.50,Night,4,S007
+1008,U003,04/12/2024,Lunch,Veggie Burger,Canceled,$11.00,Day,4.29,S008
+1009,U001,05/12/2024,Dinner,Grilled Chicken,Completed,$12.00,Night,5,S009
+1010,U002,05/12/2024,Breakfast,Oatmeal,Completed,$7.00,Morning,4,S010
+1011,U003,06/12/2024,Breakfast,Pancakes,Completed,$8.50,Morning,4,S011
+1012,U004,06/12/2024,Dinner,Spaghetti,Completed,$12.50,Night,4,S012
+1013,U005,07/12/2024,Lunch,Caesar Salad,Completed,$9.00,Day,4,S013
+1014,U006,07/12/2024,Dinner,Grilled Chicken,Completed,$13.00,Night,5,S014
+1015,U007,08/12/2024,Dinner,Spaghetti,Completed,$14.00,Night,5,S015
+1016,U008,08/12/2024,Lunch,Veggie Burger,Completed,$11.00,Day,4,S016
